@@ -32,20 +32,6 @@ As a result, the Minimum Supported Rust Version (MSRV) is generally close to "th
 * **[Official Examples](https://github.com/bevyengine/bevy/tree/latest/examples):** Bevy's dedicated, runnable examples, which are great for digging into specific concepts.
 * **[Community-Made Learning Resources](https://bevyengine.org/assets/#learning)**: More tutorials, documentation, and examples made by the Bevy community.
 
-## Community
-
-Before contributing or participating in discussions with the community, you should familiarize yourself with our [**Code of Conduct**](./CODE_OF_CONDUCT.md).
-
-* **[Discord](https://discord.gg/bevy):** Bevy's official discord server.
-* **[Reddit](https://reddit.com/r/bevy):** Bevy's official subreddit.
-* **[GitHub Discussions](https://github.com/bevyengine/bevy/discussions):** The best place for questions about Bevy, answered right here!
-* **[Bevy Assets](https://bevyengine.org/assets/):** A collection of awesome Bevy projects, tools, plugins and learning materials.
-
-If you'd like to help build Bevy, check out the **[Contributor's Guide](https://github.com/bevyengine/bevy/blob/master/CONTRIBUTING.md)**.
-For simple problems, feel free to open an issue or PR and tackle it yourself!
-
-For more complex architecture decisions and experimental mad science, please open an [RFC](https://github.com/bevyengine/rfcs) (Request For Comments) so we can brainstorm together effectively!
-
 ## Getting Started
 
 We recommend checking out [The Bevy Book](https://bevyengine.org/learn/book/introduction) for a full tutorial.
